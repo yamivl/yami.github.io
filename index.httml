@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head> 
-    <link rel="stylesheet" href="style.css"> 
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Why You Need a Husky in Your Life</title>
@@ -13,33 +12,23 @@
     </header>
 
     <section class="intro">
-        <h2>Huskies: Loyal, Loving, and Full of Personality</h2>
-        <p>Huskies are renowned for their loyalty and affectionate nature, making them one of the most cherished dog breeds. Their playful personality and sharp intelligence captivate anyone who spends time with them. For example, Loki, my husky, embodies everything wonderful about this breed—he's mischievous, incredibly kind, and always ready to play. His boundless enthusiasm has a way of lifting my spirits, turning any rough day into a joyful one the moment I walk through the door. A husky brings this special kind of warmth and energy, spreading joy effortlessly.</p>
+        <!-- Introductory text about huskies and Loki -->
     </section>
 
     <section class="benefits">
-        <h2>The Endless Benefits of Having a Husky</h2>
-        <p>Owning a husky offers a world of benefits, especially for those who crave adventure, activity, and loyal companionship. Huskies are ideal for people with active lifestyles, as they have boundless energy and a strong love for exploring. My husky, Loki, brings so much joy and companionship—no matter how tiring my day has been, he’s always there, ready to greet me with pure excitement and affection.</p>
-        <p>For those who love the outdoors, huskies are perfect adventure buddies. Whether we're spending hours at the park or exploring trails, Loki’s high energy and curiosity keep us both entertained and engaged. He’s the best company, even on solo trips. With a husky by your side, every walk or outing feels more lively, and you’re sure to have a loyal friend ready to enjoy every moment with you.</p>
+        <!-- Section discussing the benefits of owning a husky -->
     </section>
 
     <section class="fit-for-you">
-        <h2>Is a Husky the Right Fit for You?</h2>
-        <p>While it’s tempting to adopt any dog that catches your eye, finding the right breed to match your lifestyle and personality is essential, especially with a breed as unique as a husky. Unfortunately, many dogs end up in homes that aren’t equipped for their needs, which often leads to abandonment or neglect. That's why it’s so important to consider whether a husky’s high energy and playfulness will mesh well with your lifestyle.</p>
-        <p>Huskies are ideal for people who have plenty of time, patience, and energy to invest. They thrive in active households where outdoor adventures, daily exercise, and lots of attention are part of the routine. If you’re short on free time or patience, this breed may not be the best choice. I’ve learned firsthand with Loki that huskies require a lot of attention. Grooming alone can be time-consuming—it often takes over an hour just to deshed him, not to mention removing his fur from every outfit I own! Giving him a bath is a whole adventure in itself.</p>
-        <p>But with patience and dedication, the rewards of owning a husky are beyond measure. They’ll fill your life with joy, loyalty, and companionship. Just remember: a happy husky makes a happy owner, so it’s essential to be ready for everything they bring to the table.</p>
+        <!-- Section about matching lifestyle with a husky’s needs -->
     </section>
 
     <section class="environment">
-        <h2>The Ideal Environment for a Husky</h2>
-        <p>Environment plays a big role in a husky’s comfort and happiness. With their thick, double-layered coats, huskies are generally better suited to colder climates. However, each husky has its own preferences—Loki, for instance, would rather stay inside snuggled under a blanket than spend time outside in the snow!</p>
-        <p>Space is another important consideration. With their high energy levels, huskies love having room to roam, so a home with a large yard can be ideal. That said, apartment living can work well, too, as long as their exercise needs are consistently met. Loki spent his first two years in an apartment, and as long as we kept up with daily walks, playtime, and outdoor activities, he adapted just fine. Now that we’re in a house with a yard, he loves the freedom to go outside whenever he wants.</p>
-        <p>Training is another factor to keep in mind. Huskies are intelligent but independent, which can make training a bit of a challenge. Patience and consistency are key—Loki is three years old now and knows just a few commands, but we’re progressing step by step. With dedication, you can teach your husky to follow commands, though they might keep a bit of that independent spirit!</p>
+        <!-- Section on environment suitability for huskies -->
     </section>
 
     <section class="conclusion">
-        <h2>Conclusion</h2>
-        <p>If after reading all of this, you’re still considering adding a husky to your life, you’re in for an amazing experience. Yes, there are challenges—like their high energy, grooming needs, and sometimes independent nature—but the rewards far outweigh them. A husky will become your best friend, bringing endless love, loyalty, and happiness into your home. Their playful spirit, affection, and adventurous nature will transform your daily life, filling it with joy, laughter, and unforgettable memories. If you’re ready for the commitment and excited for the adventure, a husky could be the perfect addition to your family.</p>
+        <!-- Conclusion about adding a husky to your life -->
     </section>
 
     <section class="meet-loki">
